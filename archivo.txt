@@ -1,0 +1,14 @@
+modificacion del archivo
+
+cambios rama texto-expandido 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum metus sit amet libero tincidunt, 
+in lacinia ligula dapibus. Mauris sed eros lectus. Aliquam accumsan odio finibus mollis egestas. Phasellus
+ tincidunt ac ex in ultricies. Ut congue sollicitudin elit. Morbi ullamcorper, nulla eu venenatis maximus,
+  magna mi porta dui, id egestas ex odio eget turpis. Mauris volutpat dui ut libero aliquam dignissim.
+ Etiam tortor augue, ultricies ut semper non, sagittis sed ante. Aliquam erat volutpat. Ut dui nisi, 
+ vehicula id leo id, aliquam dignissim eros. Aenean a aliquam lacus. Vestibulum ac quam vel dolor viverra 
+ tristique id ut mauris. Morbi tincidunt faucibus augue, in eleifend lectus suscipit in. Nunc vehicula egestas 
+ sem ac dignissim. Etiam vulputate urna id nibh sagittis, a pulvinar ipsum iaculis. Donec luctus diam sit amet nulla 
+ lacinia tempus.
+
